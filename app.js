@@ -20,11 +20,10 @@ app.use('/static', express.static('public'));
 
 // An index route to render the home page
 app.get('/', (req, res) => {
-	res.render('index');
+	res.render('index', { projects });
 });
-
 //Sets local variable equal to the projects listed in data.json
-app.locals = projects;
+app.locals = data.projects;
 
 // An about route to render the about page
 app.get('/about', (req, res) => {
