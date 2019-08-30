@@ -4,13 +4,17 @@
 			"id": 0,
 			"project_name": "A Random Quote Generator",
 			"description": "A program that displays a randomly selected quote each time the user clicks a button.",
-			"technologies": ["HTML", "CSS", "JavaScript"],
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
 			"live_link": "https://www.dr.dk",
-			"github_link": "https://www.politiken.dk",
+			"github_link": "https://github.com/tfsn86/TD-project-1",
 			"image_urls": [
-				"/images/pic-1200-550.jpg",
-				"/images/pic-1200-550.jpg",
-				"/images/pic-1200-550.jpg"
+				"/static/images/pic-1200-550.jpg",
+				"/static/images/pic-1200-550.jpg",
+				"/static/images/pic-1200-550.jpg"
 			]
 		}
 	]
