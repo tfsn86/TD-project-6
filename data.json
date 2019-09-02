@@ -3,7 +3,7 @@
 		{
 			"id": 0,
 			"project_name": "A Random Quote Generator",
-			"description": "A program that displays a randomly selected quote each time the user clicks a button.",
+			"description": "The first project in Treehouse JavaScript Full Stack Tech Degree. It is a program that displays a randomly selected quote each time the user clicks a button.",
 			"technologies": [
 				"HTML",
 				"CSS",
@@ -12,9 +12,78 @@
 			"live_link": "https://tfsn86.github.io/TD-project-1/",
 			"github_link": "https://github.com/tfsn86/TD-project-1",
 			"image_urls": [
-				"/static/images/pic-1200-550.jpg",
-				"/static/images/pic-1200-550.jpg",
-				"/static/images/pic-1200-550.jpg"
+				"/static/images/td-project-1/musk-550x550.jpg",
+				"/static/images/td-project-1/musk-1200x550.jpg",
+				"/static/images/td-project-1/zlatan-1200x550.jpg"
+			]
+		},
+		{
+			"id": 1,
+			"project_name": "Student List",
+			"description": "The second project in Treehouse JavaScript Full Stack Tech Degree. The project is about increasing the usability of a webpage containing a student list. This is done with list pagination and filtering.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://tfsn86.github.io/TD-project-2/",
+			"github_link": "https://github.com/tfsn86/TD-project-2",
+			"image_urls": [
+				"/static/images/td-project-2/students-550x550.jpg",
+				"/static/images/td-project-2/search-1200x550.jpg",
+				"/static/images/td-project-2/pages-1200x550.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"project_name": "Interactive Form",
+			"description": "The third project in Treehouse JavaScript Full Stack Tech Degree. The project is about creating an interactive form.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"jQuery"
+			],
+			"live_link": "https://tfsn86.github.io/TD-project-3/",
+			"github_link": "https://github.com/tfsn86/TD-project-3",
+			"image_urls": [
+				"/static/images/td-project-3/full-stack-550x550.jpg",
+				"/static/images/td-project-3/full-stack-1200x550.jpg",
+				"/static/images/td-project-3/register1200x550.jpg"
+			]
+		},
+		{
+			"id": 3,
+			"project_name": "Word Guessing Game",
+			"description": "The fourth project in Treehouse JavaScript Full Stack Tech Degree. The project is about creating a word guessing game using object-oriented programming",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://tfsn86.github.io/TD-project-4/",
+			"github_link": "https://github.com/tfsn86/TD-project-4",
+			"image_urls": [
+				"/static/images/td-project-4/game-550x550.jpg",
+				"/static/images/td-project-4/game-1200x550.jpg",
+				"/static/images/td-project-4/won-1200x550.jpg"
+			]
+		},
+		{
+			"id": 4,
+			"project_name": "Employee Directory",
+			"description": "The fifth project in Treehouse JavaScript Full Stack Tech Degree. The project is about creating an employee directory using a public API.",
+			"technologies": [
+				"HTML",
+				"CSS",
+				"JavaScript"
+			],
+			"live_link": "https://tfsn86.github.io/TD-project-5/",
+			"github_link": "https://github.com/tfsn86/TD-project-5",
+			"image_urls": [
+				"/static/images/td-project-5/employee-550x550.jpg",
+				"/static/images/td-project-5/employee-1200x550.jpg",
+				"/static/images/td-project-5/ja1200x550.jpg"
 			]
 		}
 	]
