@@ -4,11 +4,11 @@ h3,
 h4,
 h5,
 p {
-	font-family: 'Merriweather', serif;
+	font-family: 'Roboto', serif;
 }
 
 h5 {
-	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	letter-spacing: 2.5px;
 	-webkit-text-transform: uppercase;
 	text-transform: uppercase;
