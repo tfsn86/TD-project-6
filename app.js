@@ -38,6 +38,22 @@ app.get('/project/:id', (req, res, next) => {
 	res.render('project', { project });
 });
 
+// Handle 404 error
+app.use((req, res, next) => {
+	const err = new Error('Not Found');
+	err.status = 404;
+	next(err);
+});
+
+// Display the error page with the error information
+app.use((err, req, res, next) => {
+	res.locals.error = err;
+	res.status(err.status);
+	res.render('error');
+
+	console.log('Sorry the requested page can not be found.');
+});
+
 app.listen(3000, () => {
 	console.log('This application is running on localhost:3000!');
 });
